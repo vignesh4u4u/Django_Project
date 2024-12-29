@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2c71b9-76ee-484a-9a5d-25b1c3e4a5c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Django_Tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ASR/Audio_Converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ASR/Youtube_Downloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ASR/merge_audio_video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Course/firstproject/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rest_API/ligthing_ai_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="ec2c71b9-76ee-484a-9a5d-25b1c3e4a5c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +52,7 @@
     "Python.settings.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Django__course",
     "last_opened_file_path": "D:/Pycharm_Projects/AWS"
   }
 }]]></component>
