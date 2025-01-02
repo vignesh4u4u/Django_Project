@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2c71b9-76ee-484a-9a5d-25b1c3e4a5c2" name="Changes" comment="" />
+    <list default="true" id="ec2c71b9-76ee-484a-9a5d-25b1c3e4a5c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_project/first_project/app1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,17 +39,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ASR/Audio_Converter.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/ASR/Youtube_Downloader.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/ASR/merge_audio_video.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/app/admin.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/app/apps.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/app/models.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/app/urls.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/app/views.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/firstproject/settings.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Django_Course/firstproject/firstproject/urls.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Rest_API/ligthing_ai_method.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Django_project/first_project/app1/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Django_project/first_project/app1/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Django_project/first_project/first_project/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Django_project/first_project/first_project/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -42,20 +53,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Audio_Converter.executor": "Run",
-    "Python.Youtube_Downloader.executor": "Run",
-    "Python.ligthing_ai_method.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.merge_audio_video.executor": "Run",
-    "Python.settings.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Django__course",
-    "last_opened_file_path": "D:/Pycharm_Projects/AWS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Audio_Converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Youtube_Downloader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ligthing_ai_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_audio_video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Django__course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm_Projects/Django_Tutorial&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Pycharm_Projects\Django_Tutorial\ASR" />
