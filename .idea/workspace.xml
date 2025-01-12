@@ -6,22 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ec2c71b9-76ee-484a-9a5d-25b1c3e4a5c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_project/first_project/app1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/firstproject/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Course/firstproject/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +45,11 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.merge_audio_video.executor&quot;: &quot;Run&quot;,
     &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Django__course&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm_Projects/Django_Tutorial&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm_Projects/CISO.AI&quot;
   }
 }</component>
   <component name="RecentsManager">
